@@ -9,7 +9,7 @@ public class Efficiency {
 		int len = getCount();
 		List<String> ls = new ArrayList<String>();
 		for(int i = 0;i<len;i++){
-			ls.add("zhangsan" + i);
+			ls.add("zhangsanasdads" + i);
 		}
 		long endTime = System.currentTimeMillis();
 		System.out.println(endTime - startTime);
